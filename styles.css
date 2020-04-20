@@ -490,8 +490,8 @@ hr.socket {
 }
 /*--- Media Queries ---*/
 @media (max-width: 767px) {
-  .caption h4 {
-    font-size: 1.7rem;
+  .caption h3 {
+    font-size: 1.8rem;
     letter-spacing: .15rem;
     padding-bottom: .5rem;
   }
